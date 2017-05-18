@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    GG
+                    Genevieve
                 </div>
 
                 <div class="links">
